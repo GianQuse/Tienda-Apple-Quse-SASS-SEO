@@ -1,0 +1,143 @@
+@media (min-width: 768px) {
+    .banner {
+        flex-direction: row;
+        justify-content: space-evenly;
+
+        .tituloBanner {
+            text-align: left;
+
+            .textoPrincipal {
+                font-size: 7vw;
+                width: 35vw;
+            }
+
+            h2 {
+                font-size: 4vw;
+            }
+        }
+
+        .imgBanner {
+            height: 40vw;
+        }
+    }
+
+    .section1 {
+        border-top: $borde8;
+
+        .fotos {
+            flex-direction: row;
+            justify-content: space-evenly;
+
+            .tamañoFotos {
+                width: 30vw;
+                border-radius: 2.5vw;
+                margin-bottom: 15px;
+            }
+        }
+    }
+
+    .carousel {
+        border-top: $borde8;
+    }
+
+    .section2 {
+        border-top: $borde8;
+        flex-direction: row-reverse;
+
+        .textoVideo {
+            width: 200vw;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+
+            h2 {
+                font-size: 4vw;
+            }
+
+            p {
+                font-size: 1.8vw;
+            }
+        }
+
+        .contenedorVideo {
+            width: 220vw;
+            height: 30vw;
+            margin-bottom: 0px;
+        }
+    }
+
+    .footer {
+        border-top: $borde8;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 6px 0px;
+    }
+
+    .socialTelefono {
+        display: flex;
+        flex-direction: column;
+
+        .tituloRedes {
+            font-size: 2.5vw;
+        }
+
+        .iconSocial {
+            width: 20vw;
+
+            a {
+                img {
+                    height: 4vw;
+                }
+            }
+        }
+
+        .telefono {
+            text-align: center;
+
+            h4 {
+                font-size: 2.7vw;
+            }
+
+            p {
+                font-size: 2vw;
+            }
+        }
+    }
+
+    .email {
+        .subtitulo-email {
+            font-size: 2vw;
+        }
+
+        .caja-email {
+            width: 26.5vw;
+            font-size: 1.1vw;
+        }
+
+        .formulario {
+            textarea {
+                width: 32vw;
+                font-size: 1.1vw;
+            }
+
+            .boton {
+                input {
+                    width: 10vw;
+                    height: auto;
+                    font-size: 1vw;
+                }
+            }
+        }
+    }
+
+    .contenedorMapa {
+        h4 {
+            font-size: 2vw;
+            margin-top: 0px;
+        }
+
+        .mapa {
+            width: 28vw;
+        }
+    }
+}

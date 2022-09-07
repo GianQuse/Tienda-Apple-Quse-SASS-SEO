@@ -1,0 +1,29 @@
+.section1 {
+    border-top: $borde5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h2 {
+        margin-top: 8px;
+        @include font-style (700);
+    }
+
+    .fotos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+
+        .tamañoFotos {
+            width: 90vw;
+            border-radius: 5.5vw;
+            margin-bottom: 12px;
+
+            &:hover {
+                transform: scale(1.05, 1.05);
+                transition: 0.3s;
+            }
+        }
+    }
+}

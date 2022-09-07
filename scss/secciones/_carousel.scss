@@ -1,0 +1,9 @@
+.carousel {
+    .font-style-h2 {
+        @include font-style (900);
+    }
+
+    .font-style-p {
+        @include font-style (400);
+    }
+}

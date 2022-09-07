@@ -1,0 +1,4 @@
+@mixin font-style ($weight-texto) {
+    font-family: 'Alegreya', serif;
+    font-weight: $weight-texto
+}

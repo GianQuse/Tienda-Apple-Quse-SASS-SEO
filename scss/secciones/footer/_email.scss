@@ -1,0 +1,45 @@
+.email {
+    .subtitulo-email {
+        @extend %estilo-subtitulo;
+    }
+
+    .caja-email {
+        @extend %tamaño-caja;
+    }
+
+    .formulario {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        input {
+            padding: 0px 5px;
+
+            &:focus {
+                background-color: #eaeaea;
+            }
+        }
+
+        textarea {
+            margin: 3px;
+            border-radius: 8px;
+            width: 60vw;
+            height: 15vh;
+            font-size: 3vw;
+            padding: 2px 5px 0px 5px;
+
+            &:focus {
+                background-color: #eaeaea;
+            }
+        }
+
+        .boton {
+            input {
+                width: 23vw;
+                height: auto;
+                font-size: 3vw;
+                border-radius: 8px;
+            }
+        }
+    }
+}

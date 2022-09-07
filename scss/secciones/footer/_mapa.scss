@@ -1,0 +1,24 @@
+.contenedorMapa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h4 {
+        text-align: center;
+        font-family: 'Alegreya', serif;
+        font-weight: 700;
+        font-size: 4vw;
+        margin-bottom: 3px;
+        margin-top: 8px;
+    }
+
+    .mapa {
+        width: 80vw;
+        height: 30vh;
+        margin-bottom: 8px;
+    }
+
+    iframe {
+        border-radius: 8px;
+    }
+}
