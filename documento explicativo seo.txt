@@ -33,3 +33,4 @@ En la pagina watch:
 
 En todas se utilizaron PALABRAS CLAVES que destacan los productos que se encuentran en cada una y con sus distintas formas de llamarlos e incluso detalles de uso como por ej. "Trabajo".
 Tambien en todas se realizo una DESCRIPCION en forma de publicidad donde se volvieron a recalcar palabras claves para subir en el SEO.-
+Por ultimo se agrego en cada pagina un Title que indica la marca de la empresa y la pagina donde se encuentra el usuario por ej. Apple - Airpod.-
