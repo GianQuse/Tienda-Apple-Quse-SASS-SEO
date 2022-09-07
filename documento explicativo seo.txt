@@ -1,0 +1,35 @@
+En la pagina index:
+- agregue un encabezado de h1 "Apple Store", pero con displey:none ya que no necesitaba dicho encabezado, solo se agrego para mejorar la posicion del SEO.
+
+En las paginas airpods, iphone, mac y watch:
+- se agregaron encabezados de h1 con sus respectivos nombres de paginas, al igual que index se utilizo displey:none solo para mejorar el SEO.
+
+En la pagina log-in:
+- se utilizo encabezado de h1 con una frase que destaque dicha pagina "ÚNETE A LA COMUNIDAD APPLE"
+
+En la pagina index:
+- keywords: Apple, Tecnologia, Airpods, iPhone, MacBook, Watch, Comunidad Apple
+- description: En nuestra tienda encontraras lo ultimo en tecnologia digital, con la calidad y garantia que ofrece Apple
+
+En la pagina airpods:
+- keywords: Apple, Airpod, Auriculares, Inalambrico, Musica
+- description: Disfruta la Musica a otro nivel con los auricualres de Apple, busca el que mejor se adapte a tu estilo
+
+En la pagina iphone:
+- keywords: Apple, iPhone, Celular, Smartphone
+- description: La potencia digital en tu bolsillo, encontra el Smartphone que estabas necesitando
+
+En la pagina log-in:
+- keywords: Apple, Comunidad, Beneficios, Descuentos
+- description: Se parte de esta comunidad y disfruta de beneficios exclusivos
+
+En la pagina mac:
+- keywords: Apple, MacBook, Notebook, Trabajo, Estudio
+- description: No es una Notebook es una MacBook, ya sea trabajo o estudio nada iguala su potencia y confort
+
+En la pagina watch:
+- keywords: Apple, Watch, Reloj, Inteligente, Deporte, Salud
+- description: Controla tu salud y actividad diaria desde tu muñeca de una manera unica con los Apple Watch
+
+En todas se utilizaron PALABRAS CLAVES que destacan los productos que se encuentran en cada una y con sus distintas formas de llamarlos e incluso detalles de uso como por ej. "Trabajo".
+Tambien en todas se realizo una DESCRIPCION en forma de publicidad donde se volvieron a recalcar palabras claves para subir en el SEO.-
